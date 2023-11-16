@@ -137,8 +137,7 @@ sistem pakar meliputi :
     > pengguna dan sistem pakar. Antarmuka ini dapat berupa antarmuka
     > grafis atau antarmuka teks, tergantung pada desain sistem.
 
-> ![](./image2.png){width="5.506767279090114in"
-> height="3.3080938320209974in"}
+> ![](./image2.png)
 >
 > Gambar 1. Struktur Sistem Pakar
 >
@@ -152,8 +151,7 @@ sistem pakar meliputi :
 > data pengguna (estimasi) dan melakukan planning berdasarkan *knowledge
 > base*nya.
 >
-> ![](./image1.png){width="4.6875in"
-> height="2.3333333333333335in"}
+> ![](./image1.png)
 >
 > Gambar 2. Trip Estimations
 >
