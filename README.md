@@ -6,8 +6,7 @@ Dosen Pengampu:
 
 Bagaskoro Saputro, S.Si., M.Cs.
 
-![](./image3.png){width="2.2411417322834644in"
-height="2.9909656605424324in"}
+![](./image3.png)
 
 Disusun Oleh :
 
